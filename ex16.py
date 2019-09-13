@@ -31,21 +31,3 @@ target.write("\n")
 
 printI("And finally, we close it.")
 target.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
