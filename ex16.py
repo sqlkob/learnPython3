@@ -30,21 +30,4 @@ target.write("\n")
 
 print("And finally, we close it.")
 target.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# This is a test
