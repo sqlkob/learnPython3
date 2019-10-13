@@ -1,3 +1,4 @@
+#ex16.py
 from sys import argv
 
 script, filename = argv
